@@ -1,0 +1,3 @@
+com/mycompany/dropwizard/api/Saying.class
+com/mycompany/dropwizard/health/TemplateHealthCheck.class
+com/mycompany/dropwizard/resources/HelloWorldResource.class
